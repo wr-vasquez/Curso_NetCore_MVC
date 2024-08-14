@@ -1,0 +1,8 @@
+************comandos*******
+Una vez instalada la version de dotnet 6.0 que eso lo descargamos
+ahora podemos usar siertos comandos  en power shell
+
+dotnet --version -->Para ver la version instalada 
+dotnet new --list --> para ver los comandos disponibles en cli
+dotnet new mvc -o PruebaCli/Proyecto  --> esto nos crea una app mvc en una carpeta 
+dotnet run --> para levantar la aplicación
