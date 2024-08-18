@@ -16,6 +16,14 @@ html {
 body {
   margin-bottom: 60px;
 }
+/*Modificaciones agregadas al css durante el curso*/
+/*Este Bloque es para estilizar Ejemplo 1 Alineando la fila*/
+.row{
+    height: 100px;
+    border: 1px solid black;
+    margin-bottom:1rem;
+}
+/*Este bloque es para <h2>Ejemplo: Vertical</h2> en el Index*/
 .row > div{
     border: 1px solid black;
 }
